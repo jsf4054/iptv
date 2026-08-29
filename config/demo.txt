@@ -1,17 +1,17 @@
 📺央视频道,#genre#
-CCTV-1 综合
-CCTV-2 财经
-CCTV-4 中文国际
-CCTV-6 电影
-CCTV-8 电视
-CCTV-9 纪录
-CCTV-10 科教
-CCTV-13 新闻
+CCTV-1
+CCTV-2
+CCTV-4
+CCTV-6
+CCTV-8
+CCTV-9
+CCTV-10
+CCTV-13
 
 🌊港澳台,#genre#
+
 TVB News
 无线新闻
-TVB
 翡翠台
 明珠台
 凤凰卫视
@@ -20,13 +20,11 @@ TVB
 TVBJ1
 TVB1
 Now新闻台
-RHK32
 RTHK32
 
 ☘️广东频道,#genre#
 广东卫视
 大湾区卫视
-广东南方卫视
 广东珠江
 广东新闻
 广东民生
