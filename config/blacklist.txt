@@ -2,7 +2,7 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
-
+jdshipin
 http://125.94.244.29:2101/1234.php?id=7&s=1
 
 http://125.94.244.29:2101/1234.php?id
