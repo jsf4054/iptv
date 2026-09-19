@@ -5,26 +5,8 @@
 # Filling in the channel name will directly retain the record to the final result of the channel, such as: CCTV-1, interface address;
 # If the channel name is not filled in, the address will be added to the results of all channels, with multiple records entered on new lines.
 
-http://173.208.234.146/live/nowxw.m3u8
-http://173.208.234.146/live/hoy76.m3u8
-http://173.208.234.146/live/hoy77.m3u8
-http://173.208.234.146/live/hoy78.m3u8
-http://173.208.234.146/live/fhzw.m3u8
-http://173.208.234.146/live/fhzx.m3u8
-http://173.208.234.146/live/fhxg.m3u8
-http://173.208.234.146/live/ctv.m3u8
-http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
-http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
-http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
-http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
-http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 
-http://173.208.234.146/live/nowxw.m3u8
 
-翡翠台,http://110.235.82.60:8001/bysid/1
-翡翠台,http://cdn6.123.rr.kg/163189/fct
-无线新闻,http://cdn6.123.rr.kg/163189/wxxw
 
 
 [KEYWORDS]

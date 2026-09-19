@@ -2,7 +2,7 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
-jdshipin
+
 http://125.94.244.29:2101/1234.php?id=7&s=1
 
 http://125.94.244.29:2101/1234.php?id
@@ -11,7 +11,7 @@ http://122.152.202.33/s/81a8a44f
 
 Catvod
 
-r.jdshipin.com
+jdshipin
 http://222.128.55.152
 http://49.232.143.177:80/pyxg/hmy.php?id=明珠台&key=***
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
@@ -23,5 +23,5 @@ http://49.232.143.177:80/pyxg/hmy.php?id=明珠台&key=***
 
 iptv.4666888.xyz
 
-173.208.234.146/live/hoy
-173.208.234.146
+Jdshipin.com
+
