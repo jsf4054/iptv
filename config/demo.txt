@@ -1,12 +1,3 @@
-📺央视频道,#genre#
-CCTV-1
-CCTV-2
-CCTV-4
-CCTV-6
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-13
 
 🌊港澳台,#genre#
 
@@ -21,17 +12,3 @@ TVBJ1
 TVB1
 Now新闻台
 RTHK32
-
-☘️广东频道,#genre#
-广东卫视
-大湾区卫视
-广东珠江
-广东新闻
-广东民生
-南国都市4K
-广州新闻
-
-📡卫视频道,#genre#
-江苏卫视
-浙江卫视
-东南卫视
