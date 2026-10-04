@@ -899,3 +899,92 @@
 2026-10-03T04:21:29+00:00 INFO    [run=5bfa13c65fbe4e149566284e12756d95 phase=statistics event=statistics.finished] 频道统计完成：测试 306，有效 25
 2026-10-03T04:21:29+00:00 INFO    [run=5bfa13c65fbe4e149566284e12756d95 phase=complete event=run.summary] 更新摘要
 2026-10-03T04:21:29+00:00 INFO    [run=5bfa13c65fbe4e149566284e12756d95 phase=complete event=run.finished] 更新完成！总耗时：03:18
+2026-10-04T05:01:55+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-08-07 11:45:59)
+2026-10-04T05:01:55+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-10-04T05:01:55+00:00 WARNING [phase=prepare event=network.ipv6.unsupported] 当前网络不支持IPv6，别担心，IPv6的结果会被保存下来
+2026-10-04T05:01:55+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 15.61 GB，并发: 测速 8、媒体探测 2、源抓取 8
+2026-10-04T05:01:55+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 16，台标 21
+2026-10-04T05:01:55+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=sources.subscribe.summary] 订阅源数量：169，订阅白名单数量：0，停用地址数量：0，有效总数量：167
+2026-10-04T05:01:55+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.started] 正在进行获取订阅源  0/167
+2026-10-04T05:01:55+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=sources.epg.summary] EPG源数量：1，EPG白名单数量：0，停用地址数量：0，有效总数量：1
+2026-10-04T05:01:55+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.started] 正在进行获取EPG源  0/1
+2026-10-04T05:01:55+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求http://e.erw.cc/e.xml.gz失败，正在进行第1次重试...
+2026-10-04T05:01:56+00:00 ERROR   [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.parse_failed] http://e.erw.cc/e.xml.gz 出错：❌ 请求http://e.erw.cc/e.xml.gz失败，已达到最大重试次数
+2026-10-04T05:01:56+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取EPG源  1/1 (100%)  剩余 0
+2026-10-04T05:01:56+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=sources.epg.finished] EPG源: ✅ 有效地址数量：1，⛔ 停用地址数量：0
+2026-10-04T05:01:56+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.finished] 正在进行获取EPG源  1/1  匹配 0 个频道
+2026-10-04T05:01:57+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  1/167 (0%)  剩余 166
+2026-10-04T05:02:02+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  17/167 (10%)  剩余 150
+2026-10-04T05:02:06+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://d.kstore.dev/download/11344/yunduan.txt失败，正在进行第1次重试...
+2026-10-04T05:02:07+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  34/167 (20%)  剩余 133
+2026-10-04T05:02:07+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://d.kstore.dev/download/11344/yunduan.txt失败，已达到最大重试次数
+2026-10-04T05:02:08+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://7337.kstore.vip/lib/kjtwzb.txt失败，正在进行第1次重试...
+2026-10-04T05:02:09+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://7337.kstore.vip/lib/kjtwzb.txt失败，已达到最大重试次数
+2026-10-04T05:02:10+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  51/167 (30%)  剩余 116
+2026-10-04T05:02:13+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://live.zbds.org/tv/iptv4.txt失败，正在进行第1次重试...
+2026-10-04T05:02:14+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://live.zbds.org/tv/iptv4.txt失败，已达到最大重试次数
+2026-10-04T05:02:14+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  67/167 (40%)  剩余 100
+2026-10-04T05:02:17+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://4key.cn/FP失败，正在进行第1次重试...
+2026-10-04T05:02:18+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  84/167 (50%)  剩余 83
+2026-10-04T05:02:19+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt失败，正在进行第1次重试...
+2026-10-04T05:02:21+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt失败，已达到最大重试次数
+2026-10-04T05:02:21+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js失败，正在进行第1次重试...
+2026-10-04T05:02:22+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js失败，已达到最大重试次数
+2026-10-04T05:02:22+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://m.iill.top/Live.m3u失败，正在进行第1次重试...
+2026-10-04T05:02:24+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://ds65.tv1288.xyzhttps//cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt失败，正在进行第1次重试...
+2026-10-04T05:02:24+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  101/167 (60%)  剩余 66
+2026-10-04T05:02:24+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://m.iill.top/Live.m3u失败，已达到最大重试次数
+2026-10-04T05:02:25+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://ds65.tv1288.xyzhttps//cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt失败，已达到最大重试次数
+2026-10-04T05:02:26+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://iptv.1989.click/playlist.m3u失败，正在进行第1次重试...
+2026-10-04T05:02:27+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://live.445569.xyz/live.m3u失败，正在进行第1次重试...
+2026-10-04T05:02:28+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://iptv.1989.click/playlist.m3u失败，已达到最大重试次数
+2026-10-04T05:02:28+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://live.445569.xyz/live.m3u失败，已达到最大重试次数
+2026-10-04T05:02:29+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  117/167 (70%)  剩余 50
+2026-10-04T05:02:29+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt失败，正在进行第1次重试...
+2026-10-04T05:02:29+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://4key.cn/FP失败，已达到最大重试次数
+2026-10-04T05:02:29+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求http://iptv.4666888.xyz/FYTV.txt失败，正在进行第1次重试...
+2026-10-04T05:02:30+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt失败，已达到最大重试次数
+2026-10-04T05:02:30+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://live.zbds.org/tv/iptv6.m3u失败，正在进行第1次重试...
+2026-10-04T05:02:31+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://zbds.org/tv/iptv4.m3u失败，正在进行第1次重试...
+2026-10-04T05:02:31+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://live.zbds.org/tv/iptv6.m3u失败，已达到最大重试次数
+2026-10-04T05:02:32+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://zbds.org/tv/iptv4.m3u失败，已达到最大重试次数
+2026-10-04T05:02:34+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  134/167 (80%)  剩余 33
+2026-10-04T05:02:36+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求https://t.freetv.fun/m3u/china_original.txt失败，正在进行第1次重试...
+2026-10-04T05:02:37+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=request.retrying] 🔄 请求http://iptv.4666888.xyz/FYTV.m3u失败，正在进行第1次重试...
+2026-10-04T05:02:38+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  151/167 (90%)  剩余 16
+2026-10-04T05:02:42+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求http://iptv.4666888.xyz/FYTV.txt失败，已达到最大重试次数
+2026-10-04T05:02:48+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求https://t.freetv.fun/m3u/china_original.txt失败，已达到最大重试次数
+2026-10-04T05:02:49+00:00 WARNING [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求http://iptv.4666888.xyz/FYTV.m3u失败，已达到最大重试次数
+2026-10-04T05:02:49+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.updated] 正在进行获取订阅源  167/167 (100%)  剩余 0
+2026-10-04T05:02:49+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=sources.subscribe.finished] 订阅源: ✅ 有效地址数量：167，⛔ 停用地址数量：0
+2026-10-04T05:02:49+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=fetch event=progress.finished] 正在进行获取订阅源  167/167  未匹配 10000
+2026-10-04T05:05:29+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=aggregate event=channels.aggregated] 频道数据聚合完成：25 个频道，6391 个接口（IPv4 5111 / IPv6 1280）
+2026-10-04T05:05:29+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=speed_test.planned] 总接口数量: 6297, 需要进行测速的接口数量: 5031
+2026-10-04T05:05:29+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.started] 测速  0/5031
+2026-10-04T05:05:30+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  1/5031 (0%)  有效 0  失败 1  翡翠台
+2026-10-04T05:06:00+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  142/5031 (2%)  有效 8  失败 134  凤凰卫视
+2026-10-04T05:06:30+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  217/5031 (4%)  有效 16  失败 201  凤凰香港
+2026-10-04T05:07:01+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  307/5031 (6%)  有效 26  失败 281  CCTV-1
+2026-10-04T05:07:32+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  368/5031 (7%)  有效 29  失败 339  CCTV-1
+2026-10-04T05:08:02+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  416/5031 (8%)  有效 34  失败 382  CCTV-2
+2026-10-04T05:08:32+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  479/5031 (9%)  有效 39  失败 440  CCTV-4
+2026-10-04T05:09:02+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  543/5031 (10%)  有效 45  失败 498  CCTV-4
+2026-10-04T05:09:33+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  597/5031 (11%)  有效 52  失败 545  CCTV-6
+2026-10-04T05:10:04+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  651/5031 (12%)  有效 57  失败 594  CCTV-8
+2026-10-04T05:10:34+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  710/5031 (14%)  有效 61  失败 649  CCTV-9
+2026-10-04T05:11:04+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  760/5031 (15%)  有效 68  失败 692  CCTV-10
+2026-10-04T05:11:34+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  829/5031 (16%)  有效 74  失败 755  CCTV-10
+2026-10-04T05:12:05+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  882/5031 (17%)  有效 77  失败 805  CCTV-13
+2026-10-04T05:12:35+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  945/5031 (18%)  有效 80  失败 865  CCTV-13
+2026-10-04T05:13:06+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  1008/5031 (20%)  有效 87  失败 921  CCTV-13
+2026-10-04T05:13:37+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  1075/5031 (21%)  有效 107  失败 968  南国都市4K
+2026-10-04T05:14:08+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  1113/5031 (22%)  有效 122  失败 991  广州新闻
+2026-10-04T05:14:39+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  1177/5031 (23%)  有效 128  失败 1049  江苏卫视
+2026-10-04T05:15:09+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  1228/5031 (24%)  有效 133  失败 1095  浙江卫视
+2026-10-04T05:15:42+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.updated] 测速  1276/5031 (25%)  有效 137  失败 1139  浙江卫视
+2026-10-04T05:15:42+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=speed_test.artifacts_written] 测速明细已写入 output/log/speed_test.log，有效结果已写入 output/log/result.log
+2026-10-04T05:15:42+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=speed_test event=progress.finished] 测速  5031/5031  有效 137  失败 1139
+2026-10-04T05:15:42+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=output event=output.written] 结果文件生成完成：更新 3 个文件
+2026-10-04T05:15:42+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=statistics event=statistics.finished] 频道统计完成：测试 1276，有效 137
+2026-10-04T05:15:43+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=complete event=run.summary] 更新摘要
+2026-10-04T05:15:43+00:00 INFO    [run=ef6b184bc5634ab4a5c30b3556a088fc phase=complete event=run.finished] 更新完成！总耗时：13:47
