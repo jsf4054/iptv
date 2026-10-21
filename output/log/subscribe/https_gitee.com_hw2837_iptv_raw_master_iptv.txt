@@ -486,7 +486,7 @@ Now新闻,https://fast.hidns.vip/163189/now#http://173.208.234.146/live/nowxw.m3
 爆谷台,http://173.208.234.146/live/nowbg.m3u8
 星影台,http://173.208.234.146/live/nowxy.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-TVB娱乐新闻台,http://cdn6.cc.cd/163189/ylxw
+TVB娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
 华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/
 千禧经典台,https://cdn3.indevs.in/stream/live/tvbc/
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -498,8 +498,8 @@ Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 Astro QJ,https://cdn3.indevs.in/stream/live/qj/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/#https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-TVB1,http://cdn6.cc.cd/163189/tvb1
-TVBJ1,http://cdn6.cc.cd/163189/j1
+TVB1,http://cdn6.123.rr.kg/163189/tvb1
+TVBJ1,http://cdn6.123.rr.kg/163189/j1
 ViuTV,https://10.fast.hidns.vip/163189/viu/
 ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
 HOY77,https://fast.hidns.vip/163189/hoy#https://cdn6.cc.cd/163189/hoy
@@ -512,16 +512,16 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
 美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
 美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
-翡翠剧集台,http://cdn6.cc.cd/163189/tvbd
+翡翠剧集台,http://cdn6.123.rr.kg/163189/tvbd
 无线新闻台,https://php.946985.filegear-sg.me/tvbnews.php?id=c
 無綫新聞台國際版,https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
-无线功夫,https://cdn6.cc.cd/163189/yzwx
-澳视澳门,http://cdn6.cc.cd/163189/asam
-澳视卫星,http://cdn6.cc.cd/163189/as
-澳门体育,http://cdn6.cc.cd/163189/amty
-澳门综艺,http://cdn6.cc.cd/163189/amzy
-澳门莲花,http://cdn6.cc.cd/163189/amlh
+无线功夫,https://cdn6.123.rr.kg/163189/yzwx
+澳视澳门,http://cdn6.123.rr.kg/163189/asam
+澳视卫星,http://cdn6.123.rr.kg/163189/as
+澳门体育,http://cdn6.123.rr.kg/163189/amty
+澳门综艺,http://cdn6.123.rr.kg/163189/amzy
+澳门莲花,http://cdn6.123.rr.kg/163189/amlh
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
 龙华偶像,http://8.fast.hidns.vip/163189/lhox
