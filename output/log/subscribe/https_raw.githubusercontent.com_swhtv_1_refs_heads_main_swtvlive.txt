@@ -19,13 +19,15 @@ CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_T
 
 NTV CANADA,https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 ICI MONTRÉAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
 TVA CA,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CANAL 24 (Spain),http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
-NHK WORLD JAPAN,http://125.227.210.55:35802/VideoInput/play.ts
+CANAL 24 (ESPAÑOL),http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+DW ESPAÑOL,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+NHK WORLD JAPAN,https://nhk.lls.pbs.org/index.m3u8
 RT NEWS(Spain),https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 RT NEWS(EN),https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
@@ -41,7 +43,9 @@ OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 DW Tv,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-fox-Business,https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_400.m3u8
+DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+fox Business,https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_400.m3u8
 fox-Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
 FOX NEW,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/19147/index.m3u8
 FOX NEWS,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
@@ -67,9 +71,6 @@ MSNBC,https://p12.usnlive.com/stream/msnbc.m3u8
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 NBC 26,https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-BBC ONE,http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
-BBC TWO,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/52449019-c378-4e85-b20e-1f51e0d5bb4a/4.m3u8
-BBC TWO,http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
 CNN,https://jmp2.uk/stvp-ATBD800001VA
 CNN,http://125.227.210.55:3026/VideoInput/play.ts
 CNN FAST,https://jmp2.uk/stvp-GBBD1900008O3
@@ -84,8 +85,7 @@ CNN EN ESPAÑOL ,https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 BBC  NEWS,http://23.237.104.106:8080/USA_BBC_NEWS/mpegts
-DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-DW ESPAÑOL,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 THE WEATHER CHANNEL,https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/3.m3u8
 Rai News 24,https://jmp2.uk/stvp-IT3200004WU
@@ -102,8 +102,6 @@ ABC,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83d
 
 abc news,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 abc news,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
-BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-BBC Earth,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 discovery.http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 NationalGeographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
@@ -264,8 +262,8 @@ CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-
-
+Now 18台,http://124.244.129.167:9004/0.ts
+Now18台,http://qingyi.7766.org:9004/0.ts
 
 PBS TV,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 PBS MPT,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
@@ -532,21 +530,21 @@ Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 
 
 SW-SPORT体育 ,#genre#
-TENNIS US,https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ffb755458b3aa8b1011a952941fa83439fd501ea81d30a8317d325f31c9590f8d8821980e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee0599ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3fc328d05302167f2203e18fe5f91adaf56b3c03e50b516739/135/1920x1080_4831200/index.m3u8
-TENNIS US 2,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce75543de3aa8b7011a952941fa83439fd501b285d65283418076f61c95c6f68981158ae4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee0599ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3ec428d01502167f2231106940df192f83199c8524cc000c65/122/1920x1080_5288800/index.m3u8
+GOLF N,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+GOLF,http://72.1.184.5:8089/play/a0cw/index.m3u8
 TENNIS CHANNEL,http://23.237.104.106:8080/USA_TENNIS/tracks-v1a1/mono.m3u8
-TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee45510d13af7e2014e947e40fa83439fd401ea80d35a83478423f2469f92a1dd821682e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f023d76a9054f3d75acedf1faeabcda2ffc1d550b648259d786/81/640x360_1020800/index.m3u8
+TENNIS US,https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ffb755458b3aa8b1011a952941fa83439fd501ea81d30a8317d325f31c9590f8d8821980e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee0599ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3fc328d05302167f2203e18fe5f91adaf56b3c03e50b516739/135/1920x1080_4831200/index.m3u8
+TENNIS US,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce75543de3aa8b7011a952941fa83439fd501b285d65283418076f61c95c6f68981158ae4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee0599ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3ec428d01502167f2231106940df192f83199c8524cc000c65/122/1920x1080_5288800/index.m3u8
 tennischannel,https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce15546d968a6e5014d9c2c4cfa83439fd501e9d6810a8345d372a2409fc4a6d98012d0e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee1529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3bc628d06f0e617a220c2709068ac56ebd5117fc070e36caef/170/426x240_391600/index.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 HBO BOXING,https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 
-DAZN_2 ,http://23.237.104.106:8080/DAZN_2/index.m3u8
 DAZN_3 ,http://23.237.104.106:8080/DAZN_3/index.m3u8
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
-NHL Network hd,https://tvsen6.aynaott.com/nfl/tracks-v1a1/mono.ts.m3u8
+NHL Networ,https://tvsen6.aynaott.com/nfl/tracks-v1a1/mono.ts.m3u8
 
 
 beIN Sports 1,https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
@@ -566,7 +564,7 @@ dazn ringside,https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-1273
 world fishing,https://fms.premio.link/fishingtv/tracks-v5a1/mono.m3u8
 fishing,https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/d5e6bad6-9955-4397-b1ad-0fbf0d1eb54b/2.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-fox 1，https://aegis-cloudfront.tubi.video/streams/59664fb2-3b5c-4e57-be0e-eb58200e55df/variant/1280x720/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTA3MTQ1OTIsImlzcyI6ImFlZ2lzIn0.N2LvyvUJFzP8gcWiTfFTH-WDaXszqpO58Wc27DPjzj5QyCPq9x90VQ8yGPat4LUVzeoB7iNkD7kCA-gGnFWU5A&Expires=1790714592&Signature=g1OIa7n7vnAyenVsyn1r/ID3loi9b/L1aEHqjh6pP1CQf8b28QRXOAUCwjwZtSRCsqiPSWthtcRYYi/gVcD5U/vYTwmF/ViCRIHxOZE1NR5wfdDZ+65ZYBdxvTitlFQ3Ss1J9TWuCGTkcjkErIDLtmEgiGnkKywrGj1i/9i18sNJsTaSnL3Zas+3ntBXB3K0mYod2vroluOcoJYyQkaJqITHks8ldUdC6VwKYcEXlQa6feP/jvJ8M+AQO5f7Jf+I2CXgOCkSv50kVap+RjiORi0+3JjZR4wT+BtZZcB9Q8nEcTdjhXlBV5q/6XVGnBDY31Mg0mfjwzbaFU9bpxYTfw==&Key-Pair-Id=K4EI1QKCGKSTE
+fox 1,https://aegis-cloudfront.tubi.video/streams/59664fb2-3b5c-4e57-be0e-eb58200e55df/variant/1280x720/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTA3MTQ1OTIsImlzcyI6ImFlZ2lzIn0.N2LvyvUJFzP8gcWiTfFTH-WDaXszqpO58Wc27DPjzj5QyCPq9x90VQ8yGPat4LUVzeoB7iNkD7kCA-gGnFWU5A&Expires=1790714592&Signature=g1OIa7n7vnAyenVsyn1r/ID3loi9b/L1aEHqjh6pP1CQf8b28QRXOAUCwjwZtSRCsqiPSWthtcRYYi/gVcD5U/vYTwmF/ViCRIHxOZE1NR5wfdDZ+65ZYBdxvTitlFQ3Ss1J9TWuCGTkcjkErIDLtmEgiGnkKywrGj1i/9i18sNJsTaSnL3Zas+3ntBXB3K0mYod2vroluOcoJYyQkaJqITHks8ldUdC6VwKYcEXlQa6feP/jvJ8M+AQO5f7Jf+I2CXgOCkSv50kVap+RjiORi0+3JjZR4wT+BtZZcB9Q8nEcTdjhXlBV5q/6XVGnBDY31Mg0mfjwzbaFU9bpxYTfw==&Key-Pair-Id=K4EI1QKCGKSTE
 fox 1 H,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 ACCNetwork,http://23.239.31.26:8989/accnetwork/index.m3u8
@@ -595,14 +593,18 @@ TSN 1,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42917.ts
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
-
 TSN 5,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42913.ts
+CA TSN 1,http://doubleclicktv.live:80/natashahawkins/1784295306/3996
+CA TSN 2,http://doubleclicktv.live:80/natashahawkins/1784295306/3995
+CA TSN 3,http://doubleclicktv.live:80/natashahawkins/1784295306/3994
+CA TSN 4,http://doubleclicktv.live:80/natashahawkins/1784295306/3993
+CA TSN 5,http://doubleclicktv.live:80/natashahawkins/1784295306/3992
+
 
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
-GOLF N,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
-GOLF,http://72.1.184.5:8089/play/a0cw/index.m3u8
-TVA CA,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+
 Africa 24 Sport f,https://edge16.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w1041827647.m3u8
 tvs sports,https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 Go Sport 1,http://stream.mcquack.net/391/index.m3u8
@@ -622,14 +624,7 @@ Shooting Sports Life,https://linear-1312.frequency.stream/dist/stirr/1312/hls/ma
 Band Sports,http://170.83.16.50/BAND_SPORTS/tracks-v1a1/mono.m3u8
 
 Trace Sport,https://mumbai-edge.smartplaytv.in/TraceSport/tracks-v1a1/mono.m3u8
-CosmoteSport5GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31583/index.m3u8
-CosmoteSport6GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31584/index.m3u8
-CosmoteSport7GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31585/index.m3u8
-CosmoteSport8GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31586/index.m3u8
-CosmoteSport9GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31587/index.m3u8
-SuperSport5AL,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262764
-SuperSport6AL,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262765
-SuperSport7AL,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262766
+
 ESPN 1,http://181.78.197.59:8000/play/a07z/index.m3u8
 ESPN 4,http://46.151.196.223:14450/
 ESPN 3,http://181.78.197.59:8000/play/a081/index.m3u8
@@ -695,6 +690,138 @@ F1 FHD8,http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stre
 fox506,http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:b7:29:67&stream=1091519&extension=ts&play_token=ChP0qwC093
 
 
+
+
+us test 2 day,#genre#
+
+US| CNN News,http://doubleclicktv.live:80/natashahawkins/1784295306/1041
+US| CNBC News,http://doubleclicktv.live:80/natashahawkins/1784295306/1043
+US| NBC News NOW,http://doubleclicktv.live:80/natashahawkins/1784295306/992
+US| Newsmax,http://doubleclicktv.live:80/natashahawkins/1784295306/1024
+US| NewsNation,http://doubleclicktv.live:80/natashahawkins/1784295306/995
+US| MSNBC,http://doubleclicktv.live:80/natashahawkins/1784295306/1034
+US| ABC News Live,http://doubleclicktv.live:80/natashahawkins/1784295306/1067
+US| BBC America,http://doubleclicktv.live:80/natashahawkins/1784295306/1066
+US| BBC World News,http://doubleclicktv.live:80/natashahawkins/1784295306/1065
+US| Fox News,http://doubleclicktv.live:80/natashahawkins/1784295306/1038
+US| The Grio,http://doubleclicktv.live:80/natashahawkins/1784295306/1063
+US| C-SPAN 1,http://doubleclicktv.live:80/natashahawkins/1784295306/1061
+US| C-SPAN 2,http://doubleclicktv.live:80/natashahawkins/1784295306/1060
+US| C-SPAN 3,http://doubleclicktv.live:80/natashahawkins/1784295306/1059
+US| CBN News Internationa,http://doubleclicktv.live:80/natashahawkins/1784295306/1058
+US| CBSN Bay Area,http://doubleclicktv.live:80/natashahawkins/1784295306/1056
+US| CBSN Boston,http://doubleclicktv.live:80/natashahawkins/1784295306/1055
+US| CBSN Chicago,http://doubleclicktv.live:80/natashahawkins/1784295306/1054
+US| CBSN Denver,http://doubleclicktv.live:80/natashahawkins/1784295306/1052
+US| CBSN Los Angeles,http://doubleclicktv.live:80/natashahawkins/1784295306/1051
+US| CBSN Minnesota,http://doubleclicktv.live:80/natashahawkins/1784295306/1050
+US| CBSN New York,http://doubleclicktv.live:80/natashahawkins/1784295306/1049
+US| CBSN Philly,http://doubleclicktv.live:80/natashahawkins/1784295306/1048
+US| CBSN Pittsburgh,http://doubleclicktv.live:80/natashahawkins/1784295306/1047
+US| Fox Business,http://doubleclicktv.live:80/natashahawkins/1784295306/1039
+US| FOX Weather,http://doubleclicktv.live:80/natashahawkins/1784295306/994
+US| CNN INTERNATIONAL,http://doubleclicktv.live:80/natashahawkins/1784295306/1040
+US| CNBC World,http://doubleclicktv.live:80/natashahawkins/1784295306/1042
+US| Cheddar News,http://doubleclicktv.live:80/natashahawkins/1784295306/1044
+US| Cheddar Business,http://doubleclicktv.live:80/natashahawkins/1784295306/1045
+US| CGTN (English),http://doubleclicktv.live:80/natashahawkins/1784295306/1046
+US| CBS News LHD,http://doubleclicktv.live:80/natashahawkins/1784295306/1057
+US| France 24 (English),http://doubleclicktv.live:80/natashahawkins/1784295306/1037
+US| RT America,http://doubleclicktv.live:80/natashahawkins/1784295306/1021
+US| HLN,http://doubleclicktv.live:80/natashahawkins/1784295306/1036
+US| LiveNOW from FOX,http://doubleclicktv.live:80/natashahawkins/1784295306/993
+US| NBCLX,http://doubleclicktv.live:80/natashahawkins/1784295306/991
+US| New England Cable New,http://doubleclicktv.live:80/natashahawkins/1784295306/1033
+US| News 12 Brooklyn,http://doubleclicktv.live:80/natashahawkins/1784295306/1032
+US| News 12 Connecticut,http://doubleclicktv.live:80/natashahawkins/1784295306/1031
+US| News 12 Hudson Valley,http://doubleclicktv.live:80/natashahawkins/1784295306/1030
+US| News 12 Long Island,http://doubleclicktv.live:80/natashahawkins/1784295306/1029
+US| News 12 New Jersey,http://doubleclicktv.live:80/natashahawkins/1784295306/1028
+US| News 12 The Bronx,http://doubleclicktv.live:80/natashahawkins/1784295306/1026
+US| News 12 Westchester,http://doubleclicktv.live:80/natashahawkins/1784295306/1025
+US| Newsy,http://doubleclicktv.live:80/natashahawkins/1784295306/1023
+US| One American News,http://doubleclicktv.live:80/natashahawkins/1784295306/1022
+US| TYT Network,http://doubleclicktv.live:80/natashahawkins/1784295306/990
+US| Spectrum News 13 Cent,http://doubleclicktv.live:80/natashahawkins/1784295306/1008
+US| Spectrum News 1 Evans,http://doubleclicktv.live:80/natashahawkins/1784295306/1011
+US| Spectrum News NY1,http://doubleclicktv.live:80/natashahawkins/1784295306/1006
+US| Infowars,http://doubleclicktv.live:80/natashahawkins/1784295306/1035
+US| Spectrum News 1 Dalla,http://doubleclicktv.live:80/natashahawkins/1784295306/1012
+US| BEK Sports News,http://doubleclicktv.live:80/natashahawkins/1784295306/1064
+US| Bloomberg,http://doubleclicktv.live:80/natashahawkins/1784295306/1062
+USA Animal Planet UHD,http://doubleclicktv.live:80/natashahawkins/1784295306/269009
+
+US| ESPN 1,http://doubleclicktv.live:80/natashahawkins/1784295306/919
+US| ESPN 2,http://doubleclicktv.live:80/natashahawkins/1784295306/932
+US| ESPN U,http://doubleclicktv.live:80/natashahawkins/1784295306/920
+US| ESPN News,http://doubleclicktv.live:80/natashahawkins/1784295306/922
+US| NFL Network,http://doubleclicktv.live:80/natashahawkins/1784295306/868
+US| NBA TV,http://doubleclicktv.live:80/natashahawkins/1784295306/885
+US| MLB Network,http://doubleclicktv.live:80/natashahawkins/1784295306/891
+US| Fight Network,http://doubleclicktv.live:80/natashahawkins/1784295306/918
+US| Tennis Channel,http://doubleclicktv.live:80/natashahawkins/1784295306/837
+US| Tennis Channel  2,http://doubleclicktv.live:80/natashahawkins/1784295306/328632
+US| UFC Channel,http://doubleclicktv.live:80/natashahawkins/1784295306/833
+US| MSGSN,http://doubleclicktv.live:80/natashahawkins/1784295306/286883
+US| ESPN,http://doubleclicktv.live:80/natashahawkins/1784295306/923
+US| FanDuel TV,http://doubleclicktv.live:80/natashahawkins/1784295306/815
+US| Ginx TV,http://doubleclicktv.live:80/natashahawkins/1784295306/899
+US| Tennis Channel,http://doubleclicktv.live:80/natashahawkins/1784295306/841
+US| TVG Network,http://doubleclicktv.live:80/natashahawkins/1784295306/836
+US| Willow Cricket Extra,http://doubleclicktv.live:80/natashahawkins/1784295306/830
+US| YES Network,http://doubleclicktv.live:80/natashahawkins/1784295306/827
+US| NFL Red zone,http://doubleclicktv.live:80/natashahawkins/1784295306/867
+US| Olympic Channel,http://doubleclicktv.live:80/natashahawkins/1784295306/866
+US| MeTV Toons,http://doubleclicktv.live:80/natashahawkins/1784295306/494103
+US| BET West,http://doubleclicktv.live:80/natashahawkins/1784295306/1153
+US| BET SOUL,http://doubleclicktv.live:80/natashahawkins/1784295306/1154
+US| BET Gospel,http://doubleclicktv.live:80/natashahawkins/1784295306/1156
+US| TeenNick,http://doubleclicktv.live:80/natashahawkins/1784295306/1159
+US| TeenNick West,http://doubleclicktv.live:80/natashahawkins/1784295306/1158
+US| American Heroes,http://doubleclicktv.live:80/natashahawkins/1784295306/509
+US| Animal Planet East,http://doubleclicktv.live:80/natashahawkins/1784295306/508
+US| Cooking Channel,http://doubleclicktv.live:80/natashahawkins/1784295306/482
+US| Crime & Investigation,http://doubleclicktv.live:80/natashahawkins/1784295306/479
+US| Destination America,http://doubleclicktv.live:80/natashahawkins/1784295306/476
+US| Discovery East,http://doubleclicktv.live:80/natashahawkins/1784295306/475
+US| Discovery Familia,http://doubleclicktv.live:80/natashahawkins/1784295306/473
+US| Discovery Family,http://doubleclicktv.live:80/natashahawkins/1784295306/472
+US| Discovery Life,http://doubleclicktv.live:80/natashahawkins/1784295306/470
+US| Discovery Science,http://doubleclicktv.live:80/natashahawkins/1784295306/469
+US| Discovery Velocity,http://doubleclicktv.live:80/natashahawkins/1784295306/468
+US| Discovery West,http://doubleclicktv.live:80/natashahawkins/1784295306/467
+US| ID East,http://doubleclicktv.live:80/natashahawkins/1784295306/430
+US| ID West,http://doubleclicktv.live:80/natashahawkins/1784295306/429
+US| Nat Geo East,http://doubleclicktv.live:80/natashahawkins/1784295306/407
+US| Smithsonian Channel,http://doubleclicktv.live:80/natashahawkins/1784295306/381
+US| Travel Channel,http://doubleclicktv.live:80/natashahawkins/1784295306/363
+US| PBS (KQED) San Franci,http://doubleclicktv.live:80/natashahawkins/1784295306/2228
+US| PBS (KRCB) CA | Rohne,http://doubleclicktv.live:80/natashahawkins/1784295306/2227
+US| New York | PBS WNET,http://doubleclicktv.live:80/natashahawkins/1784295306/2172
+
+US| Comedy Central,http://doubleclicktv.live:80/natashahawkins/1784295306/295936
+US| OWN West,http://doubleclicktv.live:80/natashahawkins/1784295306/295794
+US| Flix east,http://doubleclicktv.live:80/natashahawkins/1784295306/295792
+US| Christian Television,http://doubleclicktv.live:80/natashahawkins/1784295306/295791
+US| Free Speech TV,http://doubleclicktv.live:80/natashahawkins/1784295306/295790
+US| AMC West,http://doubleclicktv.live:80/natashahawkins/1784295306/295775
+US| Bravo West,http://doubleclicktv.live:80/natashahawkins/1784295306/295774
+US| CMT West,http://doubleclicktv.live:80/natashahawkins/1784295306/295773
+US| FX West,http://doubleclicktv.live:80/natashahawkins/1784295306/295771
+US| FYI West,http://doubleclicktv.live:80/natashahawkins/1784295306/295770
+US| GSN West,http://doubleclicktv.live:80/natashahawkins/1784295306/295769
+US| History West,http://doubleclicktv.live:80/natashahawkins/1784295306/295768
+US| Logo West,http://doubleclicktv.live:80/natashahawkins/1784295306/295767
+US| Nat Geo West,http://doubleclicktv.live:80/natashahawkins/1784295306/295766
+US| CuriosityStream,http://doubleclicktv.live:80/natashahawkins/1784295306/297870
+US| Choppertown,http://doubleclicktv.live:80/natashahawkins/1784295306/297869
+US| AKC TV,http://doubleclicktv.live:80/natashahawkins/1784295306/295360
+US| Great American Faith,http://doubleclicktv.live:80/natashahawkins/1784295306/294920
+US| Adult Swim,http://doubleclicktv.live:80/natashahawkins/1784295306/294917
+US| ABC,http://doubleclicktv.live:80/natashahawkins/1784295306/1281
+US| CBS,http://doubleclicktv.live:80/natashahawkins/1784295306/253197
+US| FOX,http://doubleclicktv.live:80/natashahawkins/1784295306/253196
+US| NBC,http://doubleclicktv.live:80/natashahawkins/1784295306/253198
 
 
 
@@ -1178,7 +1305,7 @@ CGNTV Japan,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743
 CGTN JP,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 TBS Japan,https://tbs5.mov3.co/hls/tbs.m3u8
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
-NHK WORLD JAPAN,http://125.227.210.55:35802/VideoInput/play.ts
+NHK WORLD JAPAN,https://nhk.lls.pbs.org/index.m3u8
 NHKBS,http://125.227.210.55:8210/VideoInput/play.ts
 NHKBSP4K,http://125.227.210.55:8215/VideoInput/play.ts
 NHK BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
