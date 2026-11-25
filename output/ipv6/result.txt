@@ -1,59 +1,60 @@
 🕘️更新时间,#genre#
-2026-11-14 18:34:22,https://cdn3.indevs.in/stream/tvb/fct/#https://cdn3.indevs.in/stream/tvb/fct4k/
+2026-11-25 12:50:20,https://mytv.cdn.loc.cc/o12.php?id=fct
 
 港澳台,#genre#
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct/#https://cdn3.indevs.in/stream/tvb/fct4k/
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
-翡翠台,https://tv123.cc.cd/live.php?ch=358&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=9e477154a83bbefff6452ab373890501529ce38ce0cfa98d4d9139a73af6ad44
-翡翠台,https://tv123.cc.cd/live.php?ch=394&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=da580ec18af3b50a06ca0c4454fe9ffa7fc677f3f32d158385e5c16d0647c1cc
-翡翠台,https://tv123.cc.cd/live.php?ch=611&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=238c0c563d453e73f02f3392bd3709edfb89761d26bbc2d39dd6e445bb48098b
-翡翠台,https://tv123.cc.cd/live.php?ch=1122&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=f052cac64646d31263b264949c1a786285cd12da2d1243b6ea5724d42e480512
-翡翠台,https://tv123.cc.cd/live.php?ch=1730&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=d840b4453e776aef2dc1588db738fc2e28bff709b0ddb4f11e72e138bf249191
-无线新闻,https://iptv.707626.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
-无线新闻,http://cdn6.123.rr.kg/163189/wxxw
-无线新闻,http://cc.123.rr.kg/163189/wxxw
-无线新闻,http://cdn6.123.rr.kg/163189/wxxwt
-无线新闻,https://tv123.cc.cd/live.php?ch=359&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=0b4d6d2e985107925b9bd8ded36b266ea436921e511a00b575c2754e76440f8e
-无线新闻,https://tv123.cc.cd/live.php?ch=398&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=22d6188f73e41aa18c6089b17140238555107be58eafb3e9f9ad8fe2690cf4d1
-无线新闻,https://tv123.cc.cd/live.php?ch=399&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=ceafe5501ed591305647d8730f067499732b4bfdcb0c7966123d56238c01bde9
-RTHK32,http://cdn.123.rr.kg/163189/rthk32
-RTHK32,https://tv123.cc.cd/live.php?ch=345&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=3d3020d8f024bab80dee2699ba6d440fd6d7861491be4295436d1f0f77219c75
-RTHK32,https://tv123.cc.cd/live.php?ch=417&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=9d48fa5ac399c30eb9af5cf4f5608341576c6dbd95462ebd141286fe69fcc5b7
-RTHK32,https://tv123.cc.cd/live.php?ch=707&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=71674ced6cdb9c91f78e1832db01e1e749dd90487c5890427e17765c27a1a00e
-RTHK32,https://tv123.cc.cd/live.php?ch=1750&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=cfdb1111dce0c662c1d9d363612479fd26a2c3a2f07454c9f9e7339cdc88191e
-RTHK32,https://tv123.cc.cd/live.php?ch=1871&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=439f5457629d2b335b24c93a30f291e1c280980c2c1b5e0c370ddec75359012e
-Now新闻台,https://fast.hidns.vip/163189/now#http://173.208.234.146/live/nowxw.m3u8
-Now新闻台,https://cdn.qd.je/163189.php?id=now
-Now新闻台,https://tv123.cc.cd/live.php?ch=343&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=1171622c773fcbe3b2ddc2d7ed915b20440047e5bd0168f6f3a64d69e33039ef
-Now新闻台,https://tv123.cc.cd/live.php?ch=406&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=e570b27000e2219031ed5aaf8da9b505b1cf5bf4e31a0e642554c2e10248b1a1
-Now新闻台,https://tv123.cc.cd/live.php?ch=605&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=1058dd819d89c149da5699a5237b512972033aef850d32048adedb535370c062
-Now新闻台,https://tv123.cc.cd/live.php?ch=1740&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=2dc8373cd1f42732431da6fe6ed1c331edef13eb044f6484460245896f70bee4
-Now新闻台,https://tv123.cc.cd/live.php?ch=1869&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=bd9d133f34873d172733eecb6cad30837c47175851bedf3049c1c207fda52b73
-TVB News,https://iptv.707626.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
-TVB News,http://cdn6.123.rr.kg/163189/wxxw
-TVB News,http://cc.123.rr.kg/163189/wxxw
-TVB News,http://cdn6.123.rr.kg/163189/wxxwt
-TVB News,https://tv123.cc.cd/live.php?ch=359&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=0b4d6d2e985107925b9bd8ded36b266ea436921e511a00b575c2754e76440f8e
-TVB News,https://tv123.cc.cd/live.php?ch=398&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=22d6188f73e41aa18c6089b17140238555107be58eafb3e9f9ad8fe2690cf4d1
-TVB News,https://tv123.cc.cd/live.php?ch=399&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=ceafe5501ed591305647d8730f067499732b4bfdcb0c7966123d56238c01bde9
-凤凰卫视,https://tv123.cc.cd/live.php?ch=613&sid=49075a4f8fcfca5e295ab1ce78cc3f74&exp=1794598347&sig=4364505bee67ce43e12eb8940a28028334bccd662ae7b3b5aeb9a4b3a231dd21
-凤凰卫视,http://cc.123.rr.kg/163189/fhzw
-凤凰卫视,http://cdn6.123.rr.kg/163189/fhzw
-凤凰卫视,https://tv123.cc.cd/live.php?ch=352&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=e72000b66a48bfde179f009deff221f34b6ef983496942a2ca439054aeba7383
-凤凰卫视,https://tv123.cc.cd/live.php?ch=407&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=a8813d8a9e47220348ee355db4c39168d945b4f6db9dd6b7976e023031f0b548
-凤凰卫视,https://tv123.cc.cd/live.php?ch=606&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=fe32770084bb015ea84de3a100a6f03394b41daa2b51e17769ca6881f101f4ed
-凤凰卫视,https://tv123.cc.cd/live.php?ch=608&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=3cfeb541c5afde39beefae2abfef4607c83f735f48caffa7030ec567c0c4dfe5
-凤凰香港,http://cc.123.rr.kg/163189/fhhk
-凤凰香港,https://tv123.cc.cd/live.php?ch=354&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=dfe0208c81f874e500cdfb2326c947a38e3e65b01e911833c3094497b870283e
-凤凰香港,https://tv123.cc.cd/live.php?ch=409&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=7bc803b2ea52860173b2e779bf2d64316504363a8827efb4b2aaaf5cd7d92388
-凤凰香港,https://tv123.cc.cd/live.php?ch=607&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=115028d62a32424fb58a08fc9134938f629b5e34482365c6e4953581ec32494c
-凤凰香港,https://tv123.cc.cd/live.php?ch=610&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=0f00bbb37f968622791d61dd3b7ab146329155be50c28ea2a8dbdb23eb32ee2e
-凤凰香港,https://tv123.cc.cd/live.php?ch=1827&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=5aae1b7b2531aebfeecd9f061070d835f1514244e4cc08fdd89b8d3bc8802bff
-凤凰香港,https://tv123.cc.cd/live.php?ch=1879&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=38a695bf0df248c92eb4548dfcef3707b009535fc387782cc4301df74ecedf48
-凤凰资讯,http://cc.123.rr.kg/163189/fhzx
-凤凰资讯,https://tv123.cc.cd/live.php?ch=353&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=0d5ebef703776df5e6fe1d83101a3b74b6a65b47becb3ea22ca0e22fbfcfcd3a
-凤凰资讯,https://tv123.cc.cd/live.php?ch=408&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=94ec55c757c4b691972ef2611200c54be8f59c5dd2960719d73f9e20860607bb
-凤凰资讯,https://tv123.cc.cd/live.php?ch=609&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=267e4129b5fb971845f4fa9d25cc8a1cfab37f89968052d5bb3d3a30fa81822a
-凤凰资讯,https://tv123.cc.cd/live.php?ch=709&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=3c0d28ca6144a4cc4c9b1c413dff056bc6fcee19bb0eadb64229afc5aa1df276
-凤凰资讯,https://tv123.cc.cd/live.php?ch=1826&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=77ca9ae1dafad53dd40dc3f39eeffc419af15333076555c272cdbadbb1298489
-凤凰资讯,https://tv123.cc.cd/live.php?ch=1878&sid=b453d3960d244a26fe670f80cf9e170a&exp=1794695491&sig=7ec7eeb237c83c38f846b9ec41b735065ea1a51443faa2454f976c1d2221cf91
+翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://cc.123.rr.kg/163189/fct
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台,https://cdn6.cc.cd/163189/fct
+翡翠台,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
+翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
+无线新闻,http://cc.123.rr.kg/163189/wxxwt
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://cdn6.163189.xyz/163189/wxxw
+无线新闻,https://cdn6.cc.cd/163189/wxxwt
+无线新闻,https://cdn6.cc.cd/163189/wxxw
+无线新闻,http://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
+无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
+RTHK32,https://fast.hidns.vip/163189/rthk32
+RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+RTHK32,http://cdn.163189.xyz/163189/rthk32
+RTHK32,https://cdn.qd.je/163189/rthk32
+RTHK32,https://smart.dxjc.pp.ua/smart.php?id=rhk32_twn&token=tmxk
+RTHK32,https://cdn.123.rr.kg/163189/rthk32
+RTHK32,https://cdn.qd.je/163189/rthk32
+Now新闻台,http://cdn.163189.xyz/163189/now
+Now新闻台,https://fast.hidns.vip/163189/now
+Now新闻台,https://cdn.qd.je/163189/now
+Now新闻台,http://cdn.123.rr.kg/163189/now
+Now新闻台,https://cdn.123.rr.kg/163189/now
+Now新闻台,https://cdn.163189.xyz/163189/now
+Now新闻台,https://cdn.qd.je/163189/now
+TVB News,http://cc.123.rr.kg/163189/wxxwt
+TVB News,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+TVB News,https://cdn6.163189.xyz/163189/wxxw
+TVB News,https://cdn6.cc.cd/163189/wxxwt
+TVB News,https://cdn6.cc.cd/163189/wxxw
+TVB News,http://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
+TVB News,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
+凤凰卫视,http://cc.123.rr.kg/163189/fhzw#http://173.208.234.146/live/fhzw.m3u8
+凤凰卫视,https://cdn6.cc.cd/163189/fhzw
+凤凰卫视,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰卫视,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+凤凰卫视,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰卫视,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
+凤凰卫视,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8#http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+凤凰香港,https://cdn6.cc.cd/163189/fhhk
+凤凰香港,https://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
+凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰香港,https://cdn.qd.je/163189/fhhk
+凤凰资讯,http://cc.123.rr.kg/163189/fhzx#http://173.208.234.146/live/fhzx.m3u8
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx
+凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
+凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
+凤凰资讯,http://cdn5.1678520.xyz/live/?id=fhzx

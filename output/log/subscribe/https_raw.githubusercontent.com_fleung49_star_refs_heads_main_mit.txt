@@ -43,6 +43,7 @@ CCTV-6,https://0832-1dbe-95df-5158.kylintv.tv/live/cctv6hd_iphone.m3u8
 张学友醒着做梦音乐会,https://h5vod.kylintv.tv/vod/vol27/hd/20190201/hdzxyxzzm0qt/hdzxyxzzm0qt.mp4/hdzxyxzzm0qt_1_2500_ipad.mp4.m3u8
 
 US WCETV銀視,#genre#
+巴士的AITV,video://https://www.bastillepost.com/hongkong/article/16450062-巴士的ai-tv
 CCTV-4美洲,video://http://wcetv.com/videos/view/liv/0
 CGTN,video://http://wcetv.com/videos/view/liv/1
 CGTN DOCUMENTARY,video://http://wcetv.com/videos/view/liv/2
@@ -383,29 +384,26 @@ Weather Nation,http://tv.cloudcdn.me:80/live.ts?channelId=127363&uid=10223&devic
 
 港澳台|备①,#genre#
 無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-无线新闻,https://cdn6.cc.cd/163189/wxxw
-无线新闻,https://cdn6.123.rr.kg/163189/wxxw
-无线新闻,https://cdn6.123.rr.kg/163189/wxxwt
-无线新闻,http://iactive-clink.com:8081/live/yifaTV-007.m3u8
-无线新闻,http://ysift55.xyz/WJ74AC4SRKQQYR7/pahruAQRs8/616461
-无线新闻,http://173.208.234.146/live/inews.m3u8
+无线新闻,http://app.kds666.top:5566/api.php?id=5&s=2
+无线新闻,http://app.kds666.top:5566/api.php?id=7&s=1
+无线新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
+无线新闻,http://ysift55.xyz/9F54C43547F0/28EB3B5ABFD4/616461
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495601
 无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
-翡翠台,http://173.208.234.146/live/jade.m3u8
+翡翠台,http://app.kds666.top:5566/api.php?id=5&s=1
 翡翠台,https://cdn6.cc.cd/163189/fct
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
 華麗翡翠台1,https://cdn6.cc.cd/163189/hlfct
 華麗翡翠台2,https://cdn3.123.rr.kg/stream/live/hlt/
 華麗翡翠台(硬字幕),https://cdn6.cc.cd/163189/jade
 華麗翡翠台(新加坡),https://cdn3.123.rr.kg/stream/live/jade/
 明珠台,https://cdn6.cc.cd/163189/mzt
+TVB Plus,http://167.88.62.43:64012/0.ts
 TVB Plus,https://cdn6.cc.cd/163189/tvbp
 TVB Plus,https://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
 TVBe,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495602
 TVB1,https:/cdn6.cc.cd/163189/tvb1
-TVB1,http://line.senpay23.com:80/4cafe94867/48a12d348c/153396
 TVBJ1,https://cdn6.cc.cd/163189/j1
 TVBJ1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495598
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
@@ -417,7 +415,7 @@ TVB星河,https://cdn6.cc.cd/163189/tvbxh
 功夫台,https://cdn6.cc.cd/163189/yzwx
 千禧经典台,https://cdn3.123.rr.kg/163189/tvbc
 千禧经典台,http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133057
-凤凰中文,http://173.208.234.146/live/fhzw.m3u8
+凤凰中文,http://app.kds666.top:5566/api.php?id=1&s=2
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
@@ -426,7 +424,7 @@ TVB星河,https://cdn6.cc.cd/163189/tvbxh
 凤凰中文,video://https://www.faintv.com/channel/204
 凤凰中文,video://http://115.190.252.60/gangaotai/play.php?name=凤凰中文
 凤凰中文,http://31.43.191.125:8080/restream/restream/34629
-凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
+凤凰资讯,http://app.kds666.top:5566/api.php?id=2&s=2
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://31.43.191.125:8080/restream/restream/34641
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
@@ -434,7 +432,8 @@ TVB星河,https://cdn6.cc.cd/163189/tvbxh
 凤凰资讯,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,video://https://www.faintv.com/channel/120
 凤凰资讯,video://http://115.190.252.60/gangaotai/play.php?name=凤凰资讯
-凤凰香港,http://173.208.234.146/live/fhxg.m3u8
+凤凰香港,http://app.kds666.top:5566/api.php?id=129&s=11
+凤凰香港,http://app.kds666.top:5566/api.php?id=3&s=2
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰香港,https://cdn6.cc.cd/163189/fhhk
@@ -442,13 +441,13 @@ TVB星河,https://cdn6.cc.cd/163189/tvbxh
 凤凰香港,video://http://115.190.252.60/gangaotai/play.php?name=凤凰香港
 凤凰美洲台,video://http://115.190.252.60/gangaotai/play.php?name=凤凰美洲
 凤凰美洲台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156408
-HOY76,http://173.208.234.146/live/hoy76.m3u8
+HOY76,http://app.kds666.top:5566/api.php?id=13&s=2
 HOY76,https://cdn11.123.rr.kg/163189/hoy76
-HOY77,http://173.208.234.146/live/hoy77.m3u8
+HOY77,http://app.kds666.top:5566/api.php?id=14&s=5
 HOY77,https://cdn6.cc.cd/163189/hoy
 HOY77,https://fast.hidns.vip/163189/hoy
 HOY77,https://cdn.123.rr.kg/163189/hoy
-HOY78,http://173.208.234.146/live/hoy78.m3u8
+HOY78,http://app.kds666.top:5566/api.php?id=14&s=2
 HOY78,https://cdn.123.rr.kg/163189/hoy78
 HOY78,https://fast.hidns.vip/163189/hoy78
 HOY剧集台,https://cdn11.163189.xyz/163189/c4df21397505587b
@@ -459,18 +458,27 @@ RTHK31,https://cdn.123.rr.kg/163189/rthk31
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
 RTHK32,https://cdn.123.rr.kg/163189/rthk32
-NOW新闻台,http://173.208.234.146/live/nowxw.m3u8
+NOW新闻台,http://app.kds666.top:5566/api.php?id=16&s=2
 NOW新闻台,https://fast.hidns.vip/163189/now
 NOW新闻台,https://cdn.123.rr.kg/163189/now
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
-NOW星影台,http://173.208.234.146/live/nowxy.m3u8
-NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
-美亚电影,http://173.208.234.146/live/mymovie.m3u8
-POPC,http://173.208.234.146/live/popc.m3u8
-VIUTV,https://cdn.123.rr.kg/163189/viu
-VIUTV,https://10.fast.hidns.vip/163189/viu/
-VIUTV6,https://10.fast.hidns.vip/163189/viu6/
-VIUTV6,http://cdn10.123.rr.kg/163189/viu6/
+NOW财经台,http://app.kds666.top:5566/api.php?id=17&s=2
+Now-爆谷台,http://app.kds666.top:5566/api.php?id=18&s=2
+Now-爆谷台,http://app.kds666.top:5566/api.php?id=133&s=11
+Now-爆谷台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu
+Now-星影台,http://app.kds666.top:5566/api.php?id=19&s=2
+Now-星影台,http://app.kds666.top:5566/api.php?id=136&s=11
+Now-星影台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying
+Now-华剧台,http://app.kds666.top:5566/api.php?id=22&s=2
+Now-华剧台,http://app.kds666.top:5566/api.php?id=132&s=11
+Now-华剧台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-huaju
+Now-紫金台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-zijin
+美亚电影,http://app.kds666.top:5566/api.php?id=13&s=1
+POPC,http://app.kds666.top:5566/api.php?id=16&s=1
+ViuTV,http://app.kds666.top:5566/api.php?id=11&s=2
+ViuTV6,http://app.kds666.top:5566/api.php?id=12&s=2
+VIU华剧台,http://app.kds666.top:5566/api.php?id=131&s=11
+巴士的AITV,http://app.kds666.top:5566/api.php?id=53&s=2
 香港C+頻道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
@@ -553,13 +561,13 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 華語電視二台,http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
 華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
 南美新聞台,video://https://m.italkbbtv.com/live/62cc94444725b5305843ae06
-寰宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+寰宇新闻台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 寰宇新闻台,http://app.kds666.top:5566/api.php?id=6&s=3
 镜新闻,http://app.kds666.top:5566/api.php?id=4&s=3
 中天新闻,http://app.kds666.top:5566/api.php?id=1&s=3
 中天新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/ztxw.flv
 中天新闻,http://dev.sugonedu.com:8081/live/999ztxw.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻,https://tvv.tw/raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,http://app.kds666.top:5566/api.php?id=1&s=3
 中天新闻 YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天综合,http://app.kds666.top:5566/api.php?id=127&s=11
@@ -568,6 +576,8 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 中天亚洲,http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133119
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視,http://74.91.26.218:82/live/ctv.m3u8
+中视经典,http://167.88.62.43:64008/0.ts
+中视菁采,http://167.88.62.43:64009/0.ts
 TVBS亞洲台,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500947.ts
 TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
@@ -588,6 +598,7 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 大湾区卫视,http://173.208.234.146/live/nfws.m3u8
 大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+大湾区卫视,http://167.88.62.43:64011/0.ts
 广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 广东新闻,http://173.208.234.146/live/gdxw.m3u8
 广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
@@ -598,6 +609,7 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 广东体育,http://173.208.234.146/live/gdty.m3u8
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育,http://167.88.62.43:64013/0.ts
 广东移动,http://173.208.234.146/live/gdyd.m3u8
 广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
 广东民生,http://173.208.234.146/live/gdgg.m3u8
@@ -620,6 +632,8 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 FAIRCHILD EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90350
 FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90351
+FAITCHILD 1,http://167.88.62.43:64026/0.ts
+FAITCHILD 2,http://167.88.62.43:64022/0.ts
 FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90352
 
 广东频道,#genre#
@@ -630,10 +644,14 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E
 广东大湾区卫视（海外版）,http://tv.8610000.cn:555/gdtv/gdtv.php?id=46
 广东大湾区卫视,http://116.77.33.98:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 广东大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8
+广东大湾区卫视,http://167.88.62.43:64011/0.ts
+广东大湾区卫视,http://204.12.221.218:8181/3m1080p/nfwsitv.m3u8
+广东卫视,http://204.12.221.218:8181/3m1080p/gdwshd.m3u8
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
 广东卫视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
+广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 广东4K超高清,http://tv.8610000.cn:555/gdtv/gdtv.php?id=16
 广东新闻,http://173.208.234.146/live/gdxw.m3u8
@@ -643,14 +661,16 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E
 广东新闻,http://tv.8610000.cn:555/gdtv/gdtv.php?id=45
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://xhyx.gz.cn:1698/hls/63/index.m3u8
+广东新闻,http://204.12.221.218:8181/3m1080p/gdxw.m3u8
 广东民生,http://www.yahao.host:4022/udp/239.77.0.225:5146
-广东新闻,http://tv.8610000.cn:555/gdtv/gdtv.php?id=48
+广东民生,http://tv.8610000.cn:555/gdtv/gdtv.php?id=48
 广东民生,http://116.77.33.98:44330/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://xhyx.gz.cn:1698/hls/62/index.m3u8
 广东影视,http://173.208.234.146/live/gdtvs4.m3u8
 广东影视,http://www.yahao.host:4022/udp/239.77.0.217:5146
 广东影视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=53
 广东影视,http://xhyx.gz.cn:1698/hls/65/index.m3u8
+广东影视,http://204.12.221.218:8181/3m1080p/gdtvs4.m3u8
 广东珠江,http://173.208.234.146/live/gdzj.m3u8
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
@@ -658,6 +678,7 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E
 广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
 广东珠江,http://tv.8610000.cn:555/gdtv/gdtv.php?id=44
 广东珠江,http://xhyx.gz.cn:1698/hls/26/index.m3u8
+广东珠江,http://204.12.221.218:8181/3m1080p/gdzj.m3u8
 广东体育,http://173.208.234.146/live/gdty.m3u8
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育,https://cdn.123.rr.kg/163189/gdty
@@ -665,11 +686,14 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E
 广东体育,http://tv.8610000.cn:555/gdtv/gdtv.php?id=47
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://xhyx.gz.cn:1698/hls/4/index.m3u8
+广东体育,http://167.88.62.43:64013/0.ts
+广东体育,http://204.12.221.218:8181/3m1080p/gdty.m3u8
 广东少儿,http://173.208.234.146/live/gdtvs5.m3u8
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 广东少儿,http://www.yahao.host:4022/udp/239.77.0.250:5146
 广东少儿,http://tv.8610000.cn:555/gdtv/gdtv.php?id=54
 广东少儿,http://xhyx.gz.cn:1698/hls/66/index.m3u8
+广东少儿,http://204.12.221.218:8181/3m1080p/gdtvs5.m3u8
 广东嘉佳卡通,http://tv.8610000.cn:555/gdtv/gdtv.php?id=66
 广东嘉佳卡通,http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 广东南方购物,http://tv.8610000.cn:555/gdtv/gdtv.php?id=42
@@ -679,6 +703,7 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E
 广东经济科教,http://173.208.234.146/live/gdtvs1.m3u8
 广东经济科教,http://www.yahao.host:4022/udp/239.77.0.85:5146
 广东经济科教,http://xhyx.gz.cn:1698/hls/28/index.m3u8
+广东经济科教,http://204.12.221.218:8181/3m1080p/gdtvs1.m3u8
 广东岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
 广东岭南戏曲台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=15
 广东台经典剧台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=100
@@ -714,6 +739,8 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E
 广州南国都市,https://cdn15.123.rr.kg/163189/ngds
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广州南国都市,https://cdn15.163189.xyz/163189/ngds
+深圳卫视,http://204.12.221.218:8181/3m1080p/szwshd.m3u8
+深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 深圳卫视,http://116.77.33.98:44330/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -925,7 +952,8 @@ HZTV-2,http://www.yahao.host:4022/rtp/239.77.1.233:5146
 
 YT,#genre#
 鳳凰衛視#24小時直播間,https://www.youtube.com/watch?v=Ry--eMIjYLQ
-CCTV中文国际,https://www.youtube.com/watch?v=vNVp6bxkL1c
+CCTV中文国际,https://www.youtube.com/watch?v=X-HTZdV960U
+CCTV中文国际（美洲）,https://www.youtube.com/watch?v=PiSwAy-blvA
 BNE 佳讯-24小时新闻1,https://www.youtube.com/watch?v=peZgMZEJLzg
 BNE 佳讯-24小时新闻2,https://www.youtube.com/watch?v=X7u-nh7tCqY
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
@@ -2178,266 +2206,266 @@ CETV4,http://42.94.209.140:7788/923287339
 梨园频道,http://42.94.209.140:7788/961930369
 
 ysift55 LOS ANGELES,#genre#
-ABC 7 KABC,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/213872.ts
-CBS 2 KCBS,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/213933.ts
-CBS 9 KCAL,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/213994.ts
-CBSN LOS ANGELES,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032473.ts
-NBC 4 KNBC,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/214133.ts
-FOX 11 KTTV,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/214418.ts
-KTLA 5,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1321712.ts
-KTLA HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/30435.ts
-SPECTRUM NEWS 1 SO CAL HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284290.ts
+ABC 7 KABC,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/213872.ts
+CBS 2 KCBS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/213933.ts
+CBS 9 KCAL,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/213994.ts
+CBSN LOS ANGELES,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032473.ts
+NBC 4 KNBC,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/214133.ts
+FOX 11 KTTV,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/214418.ts
+KTLA 5,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1321712.ts
+KTLA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/30435.ts
+SPECTRUM NEWS 1 SO CAL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284290.ts
 
 ysift55 NEWS,#genre#
-7 NEWS BOSTON (WHDH) HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/910812.ts
-ABC 13 HOUSTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71638.ts
-ABC NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/248840.ts
-ACCU WEATHER UHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71503.ts
-AL JAZEERA HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/243953.ts
-BBC WORLD NEWS UHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71484.ts
-BBC NEWS FHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1382478.ts
-BEK SPORTS NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032478.ts
-BLAZE TV HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1088233.ts
-BLOOMBERG+ UHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/271345.ts
-BLOOMBERG TV+ FHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/792246.ts
-BLOOMBERG HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71498.ts
-C-SPAN HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71506.ts
-C-SPAN 2 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71507.ts
-C-SPAN 3 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1298269.ts
-CBSN BAY AREA HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032468.ts
-CBSN BOSTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032469.ts
-CBSN CHICAGO HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032470.ts
-CBSN DALLAS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032471.ts
-CBSN DENVER HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032472.ts
-CBSN MINNESOTA HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032474.ts
-CBSN NEW YORK HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032475.ts
-CBSN PHILADELPHIA HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032476.ts
-CBSN PITTSBURGH HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032477.ts
-CBS NEWS BOSTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/364778.ts
-CBS NEWS DETROIT FHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/364781.ts
-CBS 11 HOUSTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71672.ts
-CHEDDAR BUSINESS FHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71499.ts
-CHICAGO NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063018.ts
-CNBC HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71485.ts
-CNBC WORLD HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71492.ts
-CNN UHD+,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/76564.ts
-CNN UHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71493.ts
-CNN HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/72329.ts
-CNN INTERNATIONAL HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71486.ts
-DEFIANCE HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/277136.ts
-ESTRELLA NEWS FHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/792250.ts
-FOX 26 HOUSTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71620.ts
-FOX BUSINESS NETWORK HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71494.ts
-FOX NEWS LIVE NOW HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/957038.ts
-FOX NEWS CHANNEL HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71487.ts
-FOX NEWS CHANNEL [BK] HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1084575.ts
-FOX WEATHER HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/521134.ts
-FREE SPEECH HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/657920.ts
-HLN HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71367.ts
-I24 NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/906943.ts
-INFOWARS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1086616.ts
-KTLA 5 LOS ANGELES HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1321712.ts
-MS NOW HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71491.ts
-MS NOW HD [BK],http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1383250.ts
-NBC NEWS NOW UHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/232800.ts
-NBC 2 HOUSTON TX HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71585.ts
-NBC CHICAGO NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063020.ts
-NBC DATELINE HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1281001.ts
-NBC LOS ANGELES NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063022.ts
-NBC LOS ANGLES NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063014.ts
-NBC PHILADELPHIA NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063024.ts
-NBC PHILEDELPHIA NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063015.ts
-NBC WASHINGTON DC NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1063025.ts
-NBC LX HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/275009.ts
-NE CABLE NEWS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71501.ts
-NEWS 12 LONG ISLAND UHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/181244.ts
-NEWS 12 HUDSON VALLEY FHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1301743.ts
-NEWS 12 BROOKLYN HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/267018.ts
-NEWS 12 CONNECTICUT HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/276944.ts
-NEWS 12 THE BRONX HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/332937.ts
-NEWS 12 WESTCHESTER HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/181243.ts
-NEWS 9 SAN DIEGO (KUSI) HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1345058.ts
-NEWS 25 BOSTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/214461.ts
-NEWS 69 PHILADELPHIA (WFMZ) SD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/767859.ts
-NEW JERSEY NEWS 12 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1011739.ts
-NEWSMAX TV HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/169717.ts
-NEWSNATION HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/332166.ts
-ONE AMERICA NEWS NETWORK HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71483.ts
-PIX11 (WPIX) NEW YORK HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/984840.ts
-REAL AMERICA'S VOICE FHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1282170.ts
-RT NEWS AMERICA HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/773812.ts
-SCRIPPS NEWS FHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/792253.ts
-SPECTRUM NEWS 13 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/974332.ts
-SPECTRUM NEWS NY1 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1200218.ts
-THE FIRST TV FHD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1403615.ts
-THE WEATHER CHANNEL HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71504.ts
-THE SPOT 66 (WXPX) TAMPA HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1379606.ts
-TYT NETWORK HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1032479.ts
-UNIVISION 45 HOUSTON TX HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/271349.ts
-VEGAS34 (KMCC) LAS VEGAS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1408604.ts
-WEATHER NATION HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/71489.ts
-WGN 9 CHICAGO HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/330207.ts
-WSVN7 MIAMI HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1172727.ts
-WPIX 11 New York HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/984812.ts
+7 NEWS BOSTON (WHDH) HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/910812.ts
+ABC 13 HOUSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71638.ts
+ABC NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/248840.ts
+ACCU WEATHER UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71503.ts
+AL JAZEERA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/243953.ts
+BBC WORLD NEWS UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71484.ts
+BBC NEWS FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1382478.ts
+BEK SPORTS NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032478.ts
+BLAZE TV HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1088233.ts
+BLOOMBERG+ UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/271345.ts
+BLOOMBERG TV+ FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/792246.ts
+BLOOMBERG HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71498.ts
+C-SPAN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71506.ts
+C-SPAN 2 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71507.ts
+C-SPAN 3 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1298269.ts
+CBSN BAY AREA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032468.ts
+CBSN BOSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032469.ts
+CBSN CHICAGO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032470.ts
+CBSN DALLAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032471.ts
+CBSN DENVER HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032472.ts
+CBSN MINNESOTA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032474.ts
+CBSN NEW YORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032475.ts
+CBSN PHILADELPHIA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032476.ts
+CBSN PITTSBURGH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032477.ts
+CBS NEWS BOSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/364778.ts
+CBS NEWS DETROIT FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/364781.ts
+CBS 11 HOUSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71672.ts
+CHEDDAR BUSINESS FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71499.ts
+CHICAGO NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063018.ts
+CNBC HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71485.ts
+CNBC WORLD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71492.ts
+CNN UHD+,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/76564.ts
+CNN UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71493.ts
+CNN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/72329.ts
+CNN INTERNATIONAL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71486.ts
+DEFIANCE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/277136.ts
+ESTRELLA NEWS FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/792250.ts
+FOX 26 HOUSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71620.ts
+FOX BUSINESS NETWORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71494.ts
+FOX NEWS LIVE NOW HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/957038.ts
+FOX NEWS CHANNEL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71487.ts
+FOX NEWS CHANNEL [BK] HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1084575.ts
+FOX WEATHER HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/521134.ts
+FREE SPEECH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/657920.ts
+HLN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71367.ts
+I24 NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/906943.ts
+INFOWARS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1086616.ts
+KTLA 5 LOS ANGELES HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1321712.ts
+MS NOW HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71491.ts
+MS NOW HD [BK],http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1383250.ts
+NBC NEWS NOW UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/232800.ts
+NBC 2 HOUSTON TX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71585.ts
+NBC CHICAGO NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063020.ts
+NBC DATELINE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1281001.ts
+NBC LOS ANGELES NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063022.ts
+NBC LOS ANGLES NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063014.ts
+NBC PHILADELPHIA NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063024.ts
+NBC PHILEDELPHIA NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063015.ts
+NBC WASHINGTON DC NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063025.ts
+NBC LX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/275009.ts
+NE CABLE NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71501.ts
+NEWS 12 LONG ISLAND UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/181244.ts
+NEWS 12 HUDSON VALLEY FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1301743.ts
+NEWS 12 BROOKLYN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/267018.ts
+NEWS 12 CONNECTICUT HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/276944.ts
+NEWS 12 THE BRONX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/332937.ts
+NEWS 12 WESTCHESTER HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/181243.ts
+NEWS 9 SAN DIEGO (KUSI) HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1345058.ts
+NEWS 25 BOSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/214461.ts
+NEWS 69 PHILADELPHIA (WFMZ) SD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/767859.ts
+NEW JERSEY NEWS 12 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1011739.ts
+NEWSMAX TV HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/169717.ts
+NEWSNATION HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/332166.ts
+ONE AMERICA NEWS NETWORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71483.ts
+PIX11 (WPIX) NEW YORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/984840.ts
+REAL AMERICA'S VOICE FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1282170.ts
+RT NEWS AMERICA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/773812.ts
+SCRIPPS NEWS FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/792253.ts
+SPECTRUM NEWS 13 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/974332.ts
+SPECTRUM NEWS NY1 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1200218.ts
+THE FIRST TV FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1403615.ts
+THE WEATHER CHANNEL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71504.ts
+THE SPOT 66 (WXPX) TAMPA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1379606.ts
+TYT NETWORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032479.ts
+UNIVISION 45 HOUSTON TX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/271349.ts
+VEGAS34 (KMCC) LAS VEGAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1408604.ts
+WEATHER NATION HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71489.ts
+WGN 9 CHICAGO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/330207.ts
+WSVN7 MIAMI HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1172727.ts
+WPIX 11 New York HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/984812.ts
 
 ysift55 SPECTRUM NETWORK,#genre#
-SPECTRUM HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284260.ts
-SPECTRUM XCAST HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284319.ts
-SPECTRUM XCAST 2 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284318.ts
-SPECTRUM XCAST 3 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284320.ts
-SPECTRUM DEPORTES LA HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284261.ts
-SPECTRUM LOCAL 77 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284262.ts
-SPECTRUM NEWS - (NEW YORK) ROCHESTER HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284266.ts
-SPECTRUM NEWS - ALBANY CAPITAL REGION HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284267.ts
-SPECTRUM NEWS - AUSTIN HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284268.ts
-SPECTRUM NEWS - HUDSON VALLEY HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284269.ts
-SPECTRUM NEWS - NY1 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284270.ts
-SPECTRUM NEWS 1 ALBANY HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284291.ts
-SPECTRUM NEWS 1 BUFFALO HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284292.ts
-SPECTRUM NEWS 1 CAROLINAS MOUNTAIN HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284293.ts
-SPECTRUM NEWS 1 CHARLOTTE HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284272.ts
-SPECTRUM NEWS 1 CHARLOTTE HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284294.ts
-SPECTRUM NEWS 1 CINCINNATI HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284283.ts
-SPECTRUM NEWS 1 CLEVELAND/AKRON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284284.ts
-SPECTRUM NEWS 1 COASTAL HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284273.ts
-SPECTRUM NEWS 1 COLUMBUS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284285.ts
-SPECTRUM NEWS 1 COVINGTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284277.ts
-SPECTRUM NEWS 1 DALLAS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284276.ts
-SPECTRUM NEWS 1 DALLAS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284295.ts
-SPECTRUM NEWS 1 DALLAS -FT WORTH HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284286.ts
-SPECTRUM NEWS 1 DAYTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284287.ts
-SPECTRUM NEWS 1 EL PASO HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284296.ts
-SPECTRUM NEWS 1 EL PASO TEXAS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284288.ts
-SPECTRUM NEWS 1 EVANSVILLE HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284278.ts
-SPECTRUM NEWS 1 HUDSON VALLEY HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284297.ts
-SPECTRUM NEWS 1 KANSAS CITY HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284289.ts
-SPECTRUM NEWS 1 KANSAS CITY HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284298.ts
-SPECTRUM NEWS 1 LEXINGTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284279.ts
-SPECTRUM NEWS 1 LOUISVILLE HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284280.ts
-SPECTRUM NEWS 1 MILWAUKEE HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284265.ts
-SPECTRUM NEWS 1 MOUNTAIN HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284274.ts
-SPECTRUM NEWS 1 OHIO HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284299.ts
-SPECTRUM NEWS 1 PITTSFIELD HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284281.ts
-SPECTRUM NEWS 1 PITTSFIELD HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284300.ts
-SPECTRUM NEWS 1 RALEIGH HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284275.ts
-SPECTRUM NEWS 1 RALEIGH HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284301.ts
-SPECTRUM NEWS 1 ROTX HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284302.ts
-SPECTRUM NEWS 1 SAN ANTONIO HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284271.ts
-SPECTRUM NEWS 1 SO CAL HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284290.ts
-SPECTRUM NEWS 1 SPRINGFIELD HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284282.ts
-SPECTRUM NEWS 1 SPRINGFIELD HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284303.ts
-SPECTRUM NEWS 1 WILMINGTON HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284304.ts
-SPECTRUM NEWS 1 WISCONSIN HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284305.ts
-SPECTRUM NEWS 9 BAY HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1370142.ts
-SPECTRUM NEWS AUSTIN HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284306.ts
-SPECTRUM NEWS MAINE HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284307.ts
-SPECTRUM NEWS MO ST LOUIS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284308.ts
-SPECTRUM NEWS SAN ANTONIO HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284309.ts
-SPECTRUM NEWS ST LOUIS HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284310.ts
-SPECTRUM NOTICIAS NY1 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284311.ts
-SPECTRUM RADAR HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284312.ts
-SPECTRUM SPORTS 1 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284313.ts
-SPECTRUM SPORTS 2 HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284314.ts
-SPECTRUM SPORTSNET LA HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284315.ts
-SPECTRUM SURF CHANNEL HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284316.ts
-SPECTRUM TRAFFIC ALBANY HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/1284317.ts
+SPECTRUM HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284260.ts
+SPECTRUM XCAST HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284319.ts
+SPECTRUM XCAST 2 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284318.ts
+SPECTRUM XCAST 3 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284320.ts
+SPECTRUM DEPORTES LA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284261.ts
+SPECTRUM LOCAL 77 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284262.ts
+SPECTRUM NEWS - (NEW YORK) ROCHESTER HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284266.ts
+SPECTRUM NEWS - ALBANY CAPITAL REGION HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284267.ts
+SPECTRUM NEWS - AUSTIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284268.ts
+SPECTRUM NEWS - HUDSON VALLEY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284269.ts
+SPECTRUM NEWS - NY1 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284270.ts
+SPECTRUM NEWS 1 ALBANY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284291.ts
+SPECTRUM NEWS 1 BUFFALO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284292.ts
+SPECTRUM NEWS 1 CAROLINAS MOUNTAIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284293.ts
+SPECTRUM NEWS 1 CHARLOTTE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284272.ts
+SPECTRUM NEWS 1 CHARLOTTE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284294.ts
+SPECTRUM NEWS 1 CINCINNATI HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284283.ts
+SPECTRUM NEWS 1 CLEVELAND/AKRON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284284.ts
+SPECTRUM NEWS 1 COASTAL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284273.ts
+SPECTRUM NEWS 1 COLUMBUS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284285.ts
+SPECTRUM NEWS 1 COVINGTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284277.ts
+SPECTRUM NEWS 1 DALLAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284276.ts
+SPECTRUM NEWS 1 DALLAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284295.ts
+SPECTRUM NEWS 1 DALLAS -FT WORTH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284286.ts
+SPECTRUM NEWS 1 DAYTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284287.ts
+SPECTRUM NEWS 1 EL PASO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284296.ts
+SPECTRUM NEWS 1 EL PASO TEXAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284288.ts
+SPECTRUM NEWS 1 EVANSVILLE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284278.ts
+SPECTRUM NEWS 1 HUDSON VALLEY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284297.ts
+SPECTRUM NEWS 1 KANSAS CITY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284289.ts
+SPECTRUM NEWS 1 KANSAS CITY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284298.ts
+SPECTRUM NEWS 1 LEXINGTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284279.ts
+SPECTRUM NEWS 1 LOUISVILLE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284280.ts
+SPECTRUM NEWS 1 MILWAUKEE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284265.ts
+SPECTRUM NEWS 1 MOUNTAIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284274.ts
+SPECTRUM NEWS 1 OHIO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284299.ts
+SPECTRUM NEWS 1 PITTSFIELD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284281.ts
+SPECTRUM NEWS 1 PITTSFIELD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284300.ts
+SPECTRUM NEWS 1 RALEIGH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284275.ts
+SPECTRUM NEWS 1 RALEIGH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284301.ts
+SPECTRUM NEWS 1 ROTX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284302.ts
+SPECTRUM NEWS 1 SAN ANTONIO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284271.ts
+SPECTRUM NEWS 1 SO CAL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284290.ts
+SPECTRUM NEWS 1 SPRINGFIELD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284282.ts
+SPECTRUM NEWS 1 SPRINGFIELD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284303.ts
+SPECTRUM NEWS 1 WILMINGTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284304.ts
+SPECTRUM NEWS 1 WISCONSIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284305.ts
+SPECTRUM NEWS 9 BAY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1370142.ts
+SPECTRUM NEWS AUSTIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284306.ts
+SPECTRUM NEWS MAINE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284307.ts
+SPECTRUM NEWS MO ST LOUIS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284308.ts
+SPECTRUM NEWS SAN ANTONIO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284309.ts
+SPECTRUM NEWS ST LOUIS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284310.ts
+SPECTRUM NOTICIAS NY1 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284311.ts
+SPECTRUM RADAR HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284312.ts
+SPECTRUM SPORTS 1 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284313.ts
+SPECTRUM SPORTS 2 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284314.ts
+SPECTRUM SPORTSNET LA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284315.ts
+SPECTRUM SURF CHANNEL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284316.ts
+SPECTRUM TRAFFIC ALBANY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284317.ts
 
 ysift55 HK,#genre#
-无线新闻,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/616461.ts
-明珠台,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052638.ts
-TVB娱乐新闻台,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052635.ts
-千禧经典台,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052632.ts
-凤凰中文,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052575.ts
-凤凰资讯,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269823.ts
-凤凰美洲台,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269828.ts
-凤凰美洲台,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269822.ts
-天映频道,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052448.ts
-TVB1,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269834.ts
-TVBJ1,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269835.ts
-TVBe,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269832.ts
-TVB DRAMA,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269830.ts
-NOW HK PREMIER SPORTS 1 FHD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748430.ts
-NOW HK PREMIER SPORTS 2 FHD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748431.ts
-NOW HK PREMIER SPORTS 3 FHD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748432.ts
-NOW HK PREMIER SPORTS 4 FHD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748433.ts
-NOW HK PREMIER SPORTS 5 FHD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748434.ts
-NOW HK PREMIER SPORTS 6 FHD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748435.ts
-NOW HK PREMIER SPORTS 7 FHD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748436.ts
-NOW HK PREMIER SPORTS 8 FHD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/748437.ts
+无线新闻,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/616461.ts
+明珠台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052638.ts
+TVB娱乐新闻台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052635.ts
+千禧经典台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052632.ts
+凤凰中文,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052575.ts
+凤凰资讯,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269823.ts
+凤凰美洲台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269828.ts
+凤凰美洲台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269822.ts
+天映频道,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052448.ts
+TVB1,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269834.ts
+TVBJ1,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269835.ts
+TVBe,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269832.ts
+TVB DRAMA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269830.ts
+NOW HK PREMIER SPORTS 1 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748430.ts
+NOW HK PREMIER SPORTS 2 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748431.ts
+NOW HK PREMIER SPORTS 3 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748432.ts
+NOW HK PREMIER SPORTS 4 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748433.ts
+NOW HK PREMIER SPORTS 5 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748434.ts
+NOW HK PREMIER SPORTS 6 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748435.ts
+NOW HK PREMIER SPORTS 7 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748436.ts
+NOW HK PREMIER SPORTS 8 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748437.ts
 
 ysift55 CHINA,#genre#
-CCTV 4,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/957712.ts
-CCTV 4 美洲,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269826.ts
-CCTV-OPERA HD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269824.ts
-CCTV-ENTERTAINMENT HD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269825.ts
-CGTN-ESPANOL,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269816.ts
-CGTN HD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269817.ts
-BABYTV MANDARIN HD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269827.ts
-CHINA MOVIE CHANNEL,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269813.ts
-GUANGDONG SOUTHERN TV SD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269819.ts
-浙江国际,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269818.ts
-江苏國際,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269807.ts
-北京國際,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269814.ts
-東方國際,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269815.ts
-湖南國際,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269812.ts
-安徽國際,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269810.ts
-长城精品频道,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269821.ts
-华厦电视台,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269808.ts
-海峡卫视,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269806.ts
-深圳国际,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269811.ts
+CCTV 4,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/957712.ts
+CCTV 4 美洲,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269826.ts
+CCTV-OPERA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269824.ts
+CCTV-ENTERTAINMENT HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269825.ts
+CGTN-ESPANOL,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269816.ts
+CGTN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269817.ts
+BABYTV MANDARIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269827.ts
+CHINA MOVIE CHANNEL,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269813.ts
+GUANGDONG SOUTHERN TV SD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269819.ts
+浙江国际,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269818.ts
+江苏國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269807.ts
+北京國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269814.ts
+東方國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269815.ts
+湖南國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269812.ts
+安徽國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269810.ts
+长城精品频道,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269821.ts
+华厦电视台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269808.ts
+海峡卫视,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269806.ts
+深圳国际,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269811.ts
 
 ysift55 TAIWAN,#genre#.ts
-东森美洲,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269923.ts
-东森卫视,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269926.ts
-东森财经,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269924.ts
-东森戲劇,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269925.ts
-东森中國,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269927.ts
-台視新闻,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269922.ts
-台視綜合,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269928.ts
-华视美洲,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269929.ts
-美國城市衛視ICITI,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269919.ts
-SKYLINK TELEVISION HD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269921.ts
-SKYLINK TELEVISION 2 HD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269920.ts
-TVBS ASIA,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269833.ts
-TVBS ASIA,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269918.ts
-TVBS ASIA,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052643.ts
-YOYO TV,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269917.ts
+东森美洲,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269923.ts
+东森卫视,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269926.ts
+东森财经,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269924.ts
+东森戲劇,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269925.ts
+东森中國,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269927.ts
+台視新闻,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269922.ts
+台視綜合,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269928.ts
+华视美洲,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269929.ts
+美國城市衛視ICITI,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269919.ts
+SKYLINK TELEVISION HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269921.ts
+SKYLINK TELEVISION 2 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269920.ts
+TVBS ASIA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269833.ts
+TVBS ASIA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269918.ts
+TVBS ASIA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052643.ts
+YOYO TV,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269917.ts
 
 ysift55 ASIA,#genre#
-Astro欢喜台,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052397.ts
-ALJAZEERA,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052534.ts
-BBC WORLD NEWS,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543290.ts
-BLOOMBERG,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543286.ts
-CHANNEL 5 SG,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/986278.ts
-CHANNEL 8 SG,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/986282.ts
-CHANNEL U SG,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/986286.ts
-CNA,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052455.ts
-CNBC ASIA,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052459.ts
-CNN,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052462.ts
-DW,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052485.ts
-FRANCE 24,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052494.ts
-KBS WORLD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543274.ts
-NHK WORLD,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1003472.ts
-NHK WORLD PREMIUM,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1003470.ts
-SKY NEWS,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052585.ts
-BEIN SPOTYS 1,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052432.ts
-BEIN SPOTYS 2,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052426.ts
-BEIN SPOTYS 3,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052430.ts
-ASTRO PREMIER LEAGUE,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/955661.ts
-ASTRO PREMIER LEAGUE 2,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/955663.ts
-ASTRO PREMIER LEAGUE 4,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/955665.ts
-ASTRO ARENA,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052376.ts
-ASTRO ARENA 2,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052374.ts
-ASTRO CRICKET,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274760.ts
-A-SPORTS,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1292018.ts
-FOX SPORTS 501,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274758.ts
-NBA TV,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1380370.ts
-ONE SPORTS+,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543261.ts
-ONE SPORTS,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/543262.ts
-PTV SPORTS,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274771.ts
-SKY SPORTS CRICKET,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274763.ts
-SUPERSPORT CRICKET,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1274762.ts
-TEN SPORTS,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/129201.ts
+Astro欢喜台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052397.ts
+ALJAZEERA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052534.ts
+BBC WORLD NEWS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543290.ts
+BLOOMBERG,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543286.ts
+CHANNEL 5 SG,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/986278.ts
+CHANNEL 8 SG,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/986282.ts
+CHANNEL U SG,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/986286.ts
+CNA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052455.ts
+CNBC ASIA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052459.ts
+CNN,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052462.ts
+DW,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052485.ts
+FRANCE 24,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052494.ts
+KBS WORLD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543274.ts
+NHK WORLD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1003472.ts
+NHK WORLD PREMIUM,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1003470.ts
+SKY NEWS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052585.ts
+BEIN SPOTYS 1,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052432.ts
+BEIN SPOTYS 2,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052426.ts
+BEIN SPOTYS 3,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052430.ts
+ASTRO PREMIER LEAGUE,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/955661.ts
+ASTRO PREMIER LEAGUE 2,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/955663.ts
+ASTRO PREMIER LEAGUE 4,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/955665.ts
+ASTRO ARENA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052376.ts
+ASTRO ARENA 2,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052374.ts
+ASTRO CRICKET,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274760.ts
+A-SPORTS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1292018.ts
+FOX SPORTS 501,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274758.ts
+NBA TV,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1380370.ts
+ONE SPORTS+,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543261.ts
+ONE SPORTS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543262.ts
+PTV SPORTS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274771.ts
+SKY SPORTS CRICKET,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274763.ts
+SUPERSPORT CRICKET,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274762.ts
+TEN SPORTS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/129201.ts
 
 ky.ogtv NEWS,#genre#
 KABC,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671409.ts
@@ -2521,6 +2549,73 @@ FANDUEL TV,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/35449.ts
 TYT Network,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/117499.ts
 Weather Nation,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/90389.ts
 Yahoo Finance,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118679.ts
+
+primex LOS ANGELES,#genre#
+KABC,https://primexclusive.day:443/1444576/5450985/24250
+KCAL,https://primexclusive.day:443/1444576/5450985/20305
+KCBS,https://primexclusive.day:443/1444576/5450985/20306
+KNBC,https://primexclusive.day:443/1444576/5450985/24268
+KTTV,https://primexclusive.day:443/1444576/5450985/20344
+KTLA,https://primexclusive.day:443/1444576/5450985/20423
+Spectrum News 1 SO CAL,https://primexclusive.day:443/1444576/5450985/112730
+
+primex USA NEWS,#genre#
+US | ABC News Live HD,https://primexclusive.day:443/1444576/5450985/25938
+US | Al Jazeera News,https://primexclusive.day:443/1444576/5450985/238139
+US | BBC World News,https://primexclusive.day:443/1444576/5450985/16090
+US | Black News Channel,https://primexclusive.day:443/1444576/5450985/253857
+US | BlazeTV,https://primexclusive.day:443/1444576/5450985/233442
+US | Bloomberg TV,https://primexclusive.day:443/1444576/5450985/1064
+US | C-Span,https://primexclusive.day:443/1444576/5450985/24761
+US | C-Span 2,https://primexclusive.day:443/1444576/5450985/25944
+US | C-Span 3,https://primexclusive.day:443/1444576/5450985/25945
+US | CBS News,https://primexclusive.day:443/1444576/5450985/26096
+US | CGTN,https://primexclusive.day:443/1444576/5450985/427577
+US | Cheddar News,https://primexclusive.day:443/1444576/5450985/254226
+US | CNBC News,https://primexclusive.day:443/1444576/5450985/946
+US | CNN,https://primexclusive.day:443/1444576/5450985/21014
+US | CNN International,https://primexclusive.day:443/1444576/5450985/266707
+US | EURONEWS,https://primexclusive.day:443/1444576/5450985/427573
+US | Fox Business Network,https://primexclusive.day:443/1444576/5450985/25952
+US | Fox News Channel,https://primexclusive.day:443/1444576/5450985/407469
+US | Fox News Live Now,https://primexclusive.day:443/1444576/5450985/257413
+US | France 24 English,https://primexclusive.day:443/1444576/5450985/427574
+US | i24 News,https://primexclusive.day:443/1444576/5450985/238138
+US | Infowars TV (Alex Jones),https://primexclusive.day:443/1444576/5450985/238164
+US | KRON 4 San Francisco,https://primexclusive.day:443/1444576/5450985/238745
+US | MS NOW,https://primexclusive.day:443/1444576/5450985/16185
+US | MyTV9 Hartford New Haven,https://primexclusive.day:443/1444576/5450985/27593
+US | News 9 CA San Diego - KUSI,https://primexclusive.day:443/1444576/5450985/237661
+US | Newsmax,https://primexclusive.day:443/1444576/5450985/24394
+US | Newsmax 2,https://primexclusive.day:443/1444576/5450985/394518
+US | NewsNation,https://primexclusive.day:443/1444576/5450985/233745
+US | One American News Network,https://primexclusive.day:443/1444576/5450985/24395
+US | PHL17 Philadelphia - WPHL,https://primexclusive.day:443/1444576/5450985/250029
+US | Scripps News,https://primexclusive.day:443/1444576/5450985/266705
+US | SPECTRUM NEWS - (NEW YORK) ROCHESTER,https://primexclusive.day:443/1444576/5450985/266691
+US | SPECTRUM NEWS 1 (CAROLINAS) - COASTAL,https://primexclusive.day:443/1444576/5450985/266685
+US | SPECTRUM NEWS 1 (CAROLINAS) - MOUNTAIN,https://primexclusive.day:443/1444576/5450985/266686
+US | SPECTRUM NEWS 1 (CAROLINAS) - RALEIGH,https://primexclusive.day:443/1444576/5450985/446550
+US | SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE,https://primexclusive.day:443/1444576/5450985/266678
+US | SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE,https://primexclusive.day:443/1444576/5450985/266680
+US | SPECTRUM NEWS 1 - COLUMBUS,https://primexclusive.day:443/1444576/5450985/266694
+US | SPECTRUM NEWS 1 - DAYTON,https://primexclusive.day:443/1444576/5450985/266695
+US | Spectrum News 1 - SO CAL,https://primexclusive.day:443/1444576/5450985/266285
+US | SPECTRUM NEWS 1 - TOLEDO/LIMA,https://primexclusive.day:443/1444576/5450985/266696
+US | SPECTRUM NEWS 1 - WISCONSIN,https://primexclusive.day:443/1444576/5450985/427572
+US | SPECTRUM NEWS 1 CHARLOTTE,https://primexclusive.day:443/1444576/5450985/590795
+US | SPECTRUM NEWS 9 - TAMPA BAY,https://primexclusive.day:443/1444576/5450985/431258
+US | Spectrum | Albany Capital Region,https://primexclusive.day:443/1444576/5450985/266689
+US | Spectrum | Bay News 9,https://primexclusive.day:443/1444576/5450985/266701
+US | Spectrum | Bay News 9 Tampa,https://primexclusive.day:443/1444576/5450985/19201
+US | Spectrum | Buffalo,https://primexclusive.day:443/1444576/5450985/266688
+US | Spectrum | NY1,https://primexclusive.day:443/1444576/5450985/257177
+US | The Weather Channel,https://primexclusive.day:443/1444576/5450985/965
+US | TYT Network,https://primexclusive.day:443/1444576/5450985/111666
+US | USA New England Cable News - NECN,https://primexclusive.day:443/1444576/5450985/25943
+US | Vice News,https://primexclusive.day:443/1444576/5450985/369021
+US | WGN America,https://primexclusive.day:443/1444576/5450985/25956
+US | Yahoo Finance,https://primexclusive.day:443/1444576/5450985/266764
 
 News jmp2,#genre#
 ABC 20/20,https://jmp2.uk/stvp-US4800001W5
